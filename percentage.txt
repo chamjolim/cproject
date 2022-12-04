@@ -1,0 +1,4 @@
+5
+
+set DiamondPercentage in topline, in units of 5 (preset : 5)
+0<=DiamondPercentage<=35
